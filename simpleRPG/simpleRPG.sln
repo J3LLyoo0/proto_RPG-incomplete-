@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "simpleRPG", "simpleRPG\simpleRPG.pyproj", "{D4867EFD-49DD-41A0-B817-5771E9FCBF82}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "moves", "moves\moves.pyproj", "{9DCA9785-00D6-46D8-BD31-2C1C5E2DA322}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MinionAndSummon", "MinionAndSummon\MinionAndSummon.pyproj", "{D2CD712F-07A6-4F61-B12A-F3DA8A577C65}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "minionstats", "minionstats\minionstats.pyproj", "{8DC05901-BB92-44A3-9288-7C433A7ABFC7}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "damage", "damage\damage.pyproj", "{97AE8E5C-BFBE-4F29-B4A1-4A0856B2333B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "cooldown_system", "cooldown_system\cooldown_system.pyproj", "{F038311C-C9F3-400C-A645-818DE176242D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4867EFD-49DD-41A0-B817-5771E9FCBF82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4867EFD-49DD-41A0-B817-5771E9FCBF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCA9785-00D6-46D8-BD31-2C1C5E2DA322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCA9785-00D6-46D8-BD31-2C1C5E2DA322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2CD712F-07A6-4F61-B12A-F3DA8A577C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2CD712F-07A6-4F61-B12A-F3DA8A577C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC05901-BB92-44A3-9288-7C433A7ABFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC05901-BB92-44A3-9288-7C433A7ABFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AE8E5C-BFBE-4F29-B4A1-4A0856B2333B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AE8E5C-BFBE-4F29-B4A1-4A0856B2333B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F038311C-C9F3-400C-A645-818DE176242D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F038311C-C9F3-400C-A645-818DE176242D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B30E21A6-C4ED-42B8-84AC-B924E89E7A4A}
+	EndGlobalSection
+EndGlobal
